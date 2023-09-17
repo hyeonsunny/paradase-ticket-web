@@ -9,8 +9,12 @@
 - HTML
 - CSS
 
+<br>
+
 ## 프로젝트 구조
 draft
+
+<br>
 
 ## 프로젝트 실행
 > [paradise-ticker-web](https://github.com/jn4624/paradase-ticket-web), [paradise-ticker-server](https://github.com/jn4624/paradase-ticket-server)
@@ -18,8 +22,10 @@ draft
 
 1. draft
    2. server 실행
-   2. web 구동
-   3. http://localhost/:8080/paradise
+   3. web 구동
+   4. http://localhost/:8080/paradise
+
+<br>
 
 ## 협업 전략
 - draft
