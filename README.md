@@ -1,6 +1,8 @@
 # paradise-ticket-web
 사내 구내식당 식권 사용 및 월별, 사용자별 데이터 제공을 위한 서비스입니다.
 
+<br>
+
 ## 개발 환경
 - Java 1.8
 - Gradle
@@ -28,6 +30,10 @@ draft
 <br>
 
 ## 협업 전략
+<a href="https://github.com/hyeonsunny/paradase-ticket-web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hyeonsunny/paradase-ticket-web" />
+</a>
+
 - draft
   - git flow
     - main : 배포 브런치
