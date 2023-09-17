@@ -20,10 +20,10 @@ draft
 > [paradise-ticker-web](https://github.com/jn4624/paradase-ticket-web), [paradise-ticker-server](https://github.com/jn4624/paradase-ticket-server)
 각각의 두 프로젝트를 clone 받아 준비
 
-1. draft
-   2. server 실행
-   3. web 구동
-   4. http://localhost/:8080/paradise
+- draft
+  - server 실행
+  - web 구동
+  - http://localhost/:8080/paradise
 
 <br>
 
